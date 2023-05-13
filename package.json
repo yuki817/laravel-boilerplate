@@ -6,8 +6,12 @@
         "build": "vite build"
     },
     "devDependencies": {
+        "@types/react": "^18.2.6",
+        "@types/react-dom": "^18.2.4",
+        "@types/ziggy-js": "^1.3.2",
         "axios": "^1.1.2",
         "laravel-vite-plugin": "^0.7.5",
+        "typescript": "^5.0.4",
         "vite": "^4.0.0"
     }
 }
