@@ -1,8 +1,9 @@
 # Laravel Boilerplate
 
 This is a boilerplate for Laravel apps with following tools:
-- [Laravel 10.10](https://laravel.com/docs/10.x/)
+- [Laravel 10.15](https://laravel.com/docs/10.x/)
 - [DebugBar](https://github.com/barryvdh/laravel-debugbar)
+- [Sail](https://github.com/laravel/sail)
 - [TypeScript](https://www.typescriptlang.org/)
 - [ESLint](https://eslint.org/) with [Prettier](https://prettier.io/)
 - [Husky](https://typicode.github.io/husky/#/) hook with [lint-staged](https://github.com/okonet/lint-staged)
