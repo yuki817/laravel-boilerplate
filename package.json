@@ -10,7 +10,8 @@
         "resources/js/**/*.{js,jsx,ts,tsx}": [
             "eslint --fix",
             "prettier --write"
-        ]
+        ],
+        "**/*.php": "./vendor/bin/pint"
     },
     "devDependencies": {
         "@types/react": "^18.2.6",
