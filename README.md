@@ -1,7 +1,7 @@
 # Laravel Boilerplate
 
 This is a boilerplate for Laravel apps with following tools:
-- [Laravel 10.15](https://laravel.com/docs/10.x/)
+- [Laravel 11.20](https://laravel.com/docs/10.x/)
 - [DebugBar](https://github.com/barryvdh/laravel-debugbar)
 - [Sail](https://github.com/laravel/sail)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -52,8 +52,8 @@ Run migration files
 php artisan migrate
 ```
 
-#### Run local server
+#### Start Sail
 
 ```bash
-php artisan serve
+sail up
 ```
